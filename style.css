@@ -1,0 +1,94 @@
+        body{
+            background-color: #001f3f;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #001f3f;
+            text-align: center;
+        }
+        .grand-pa{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .father{
+            display:flex;
+            justify-content: space-around;
+            align-items: center;
+            width: 800px;
+            height: 400px;
+            position: relative;
+            border-radius: 30px;
+            background-color: white;
+        }
+        .mother{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .pikin{
+            display:flex;
+            justify-content: space-around;
+            align-items: center;
+            width: 800px;
+            height: 200px;
+            position: relative;
+            border-radius: 30px;
+            max-width: 700px;
+            margin: 20px auto;
+            background: white;
+            box-shadow: 0 4px 8px rgba (0,0,0,0,1);
+            padding: 30px;
+            border-radius: 12px;
+        }
+        .txt{
+            font-size: xxx-large;
+            color: white;
+        }
+        .txt p{
+            font-size: medium;
+        }
+        .love{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .fuck{
+            display:flex;
+            justify-content: space-around;
+            align-items: center;
+            width: 800px;
+            height: 200px;
+            position: relative;
+        }
+        .txte{
+            color:white;
+        }
+        footer{
+            max-width: 700px;
+            margin: 20px auto;
+            background: white;
+            box-shadow: 0 4px 8px rgba (0,0,0,0,1);
+            padding: 30px 500px;   
+        }
+        .whatsapp-btn {
+      display: inline-block;
+      background-color: #25D366;
+      color: white;
+      padding: 15px 25px;
+      font-size: 1.1em;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    }
+
+    .whatsapp-btn:hover {
+      background-color: #1da851;
+    }
+    .img{
+        object-fit: contain;
+        width: 30px;
+        height: 30px;
+    }
+    .tvvv{
+        color: white;
+    }
